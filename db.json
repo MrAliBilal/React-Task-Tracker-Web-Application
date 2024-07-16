@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "b773",
+      "text": "Attend Team Meeting",
+      "day": "Monday 16 Feb 2023, 09:00 AM",
+      "reminder": true
+    },
+    {
+      "id": "a0f4",
+      "text": "Doctor Appointment",
+      "day": "Sunday 20 Feb 2023, 10:00 AM",
+      "reminder": true
+    },
+    {
+      "id": "c84b",
+      "text": "Grocery Shopping",
+      "day": "Wednesday 27 Feb 2023, 05:00 PM",
+      "reminder": false
+    }
+  ]
+}
