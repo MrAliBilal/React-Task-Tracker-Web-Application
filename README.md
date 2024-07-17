@@ -9,6 +9,8 @@ This project is a Task Tracker web application built with React and JSON Server 
 - Remove a Task: Remove tasks when they're no longer needed.
 - Set Reminders: Set reminders for your tasks to stay on track.
 
+![](https://github.com/AliBilal-1/React-Task-Tracker-Web-Application/blob/main/Task%20Tracker.gif)
+
 ## Usage
 
 ### Install dependencies
