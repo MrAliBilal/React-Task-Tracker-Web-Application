@@ -25,21 +25,15 @@
   ],
   "tasks": [
     {
-      "id": "b773",
-      "text": "Attend Team Meeting",
-      "day": "Monday 16 Feb 2023, 09:00 AM",
+      "id": "63bc",
+      "text": "Dinner with friends",
+      "day": "Sunday 5 Mar 2023, 07:00 PM",
       "reminder": true
     },
     {
-      "id": "a0f4",
-      "text": "Doctor Appointment",
-      "day": "Sunday 20 Feb 2023, 10:00 AM",
-      "reminder": true
-    },
-    {
-      "id": "c84b",
-      "text": "Grocery Shopping",
-      "day": "Wednesday 27 Feb 2023, 05:00 PM",
+      "id": "13ed",
+      "text": "Yoga class",
+      "day": "Wednesday 8 Mar 2023, 08:00 Am",
       "reminder": false
     }
   ]
