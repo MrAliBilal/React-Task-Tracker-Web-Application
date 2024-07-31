@@ -10,7 +10,7 @@ This project is a Task Tracker web application built with React and JSON Server 
 - Set Reminders: Set reminders for your tasks to stay on track.
 
 <div align="center">
-	<img src="https://github.com/AliBilal-1/React-Task-Tracker-Web-Application/blob/main/Task%20Tracker.gif">
+	<img src="https://github.com/MrAliBilal/React-Task-Tracker-Web-Application/blob/main/Task%20Tracker.gif">
 </div>
 
 
